@@ -94,31 +94,37 @@ The uploaded CSV file **must contain the following exact column names**:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2️⃣ Run the Application
 
+```bash
 python app.py
+```
 
 ### 3️⃣ Upload Dataset
 
 Upload a properly formatted CSV file (as described above) into the application interface.
 
-📈 Output
+---
+
+## 📈 Output
 
 The system:
 
-Detects fraudulent insurance claims
+- Detects fraudulent insurance claims
+- Displays fraud probability
+- Generates an interactive analytics dashboard
+- Provides risk-based recommendations
 
-Displays fraud probability
+---
 
-Generates an interactive analytics dashboard
+## 👩‍💻 Author
 
-Provides risk-based recommendations
+**Samyuktha R**
 
-👩‍💻 Author
+---
 
-Samyuktha R
-
-📜 License
+## 📜 License
 
 This project is developed for academic purposes and is licensed under the MIT License.
