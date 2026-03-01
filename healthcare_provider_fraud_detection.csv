@@ -1,0 +1,211 @@
+Claim_ID,Patient_Name,Age,Disease,Claim_Amount,PotentialFraud,Hospital
+1001,John,45,Chest Pain,15000,1,Hospital A
+1002,Mary,29,Flu,2500,0,Clinic B
+1003,David,38,Surgery,55000,1,Hospital C
+1004,Sarah,50,Back Pain,8000,0,Hospital A
+1005,Steve,34,Surgery,120000,1,Clinic D
+1006,Anna,27,Headache,1800,0,Clinic B
+1007,Mike,60,Fracture,45000,1,Hospital C
+1008,Linda,33,Flu,2300,0,Clinic A
+1009,Tom,48,Surgery,75000,1,Hospital D
+1010,Jane,40,Back Pain,7000,0,Hospital A
+1011,Robert,52,Diabetes,22000,0,Hospital A
+1012,Emily,36,Fracture,48000,1,Hospital C
+1013,Matthew,41,Surgery,67000,1,Clinic D
+1014,Jessica,28,Flu,2600,0,Clinic B
+1015,Brian,55,Heart Disease,95000,1,Hospital D
+1016,Nicole,31,Headache,1900,0,Clinic A
+1017,Eric,47,Back Pain,7200,0,Hospital A
+1018,Laura,39,Allergy,3100,0,Clinic C
+1019,Daniel,62,Cancer,150000,1,Hospital B
+1020,Karen,44,Chest Pain,15500,1,Hospital C
+1021,Andrew,30,Fracture,36000,1,Hospital A
+1022,Ashley,26,Flu,2300,0,Clinic A
+1023,Brandon,51,Surgery,87000,1,Hospital D
+1024,Kelly,33,Migraine,2400,0,Clinic B
+1025,Timothy,46,Back Pain,8000,0,Hospital A
+1026,Rebecca,58,Heart Disease,102000,1,Hospital B
+1027,Gary,37,Surgery,65000,1,Hospital C
+1028,Melissa,42,Allergy,2800,0,Clinic D
+1029,Edward,64,Cancer,140000,1,Hospital D
+1030,Stephanie,35,Flu,2100,0,Clinic C
+1031,Patrick,49,Chest Pain,16000,1,Hospital A
+1032,Donna,29,Headache,1700,0,Clinic B
+1033,Gregory,53,Surgery,91000,1,Hospital C
+1034,Amber,25,Cold,1200,0,Clinic A
+1035,Benjamin,61,Fracture,46000,1,Hospital D
+1036,Amy,40,Migraine,2600,0,Clinic D
+1037,Scott,56,Heart Disease,97000,1,Hospital B
+1038,Christina,32,Allergy,3000,0,Clinic A
+1039,Shawn,43,Surgery,78000,1,Hospital C
+1040,Julie,27,Flu,2500,0,Clinic B
+1041,Ryan,48,Chest Pain,15800,1,Hospital A
+1042,Angela,34,Migraine,2700,0,Clinic D
+1043,Larry,59,Cancer,130000,1,Hospital B
+1044,Rachel,31,Back Pain,7200,0,Hospital A
+1045,Keith,45,Fracture,39000,1,Hospital D
+1046,Tina,38,Headache,1900,0,Clinic C
+1047,Carl,50,Heart Disease,99000,1,Hospital C
+1048,Hannah,24,Cold,1300,0,Clinic B
+1049,Wayne,63,Cancer,155000,1,Hospital D
+1050,Michelle,28,Flu,2400,0,Clinic A
+1051,Todd,46,Surgery,88000,1,Hospital B
+1052,Jennifer,30,Migraine,2200,0,Clinic D
+1053,Philip,57,Chest Pain,14500,1,Hospital A
+1054,Abigail,33,Allergy,3100,0,Clinic C
+1055,Mark,54,Heart Disease,96000,1,Hospital C
+1056,Cynthia,37,Back Pain,7500,0,Hospital B
+1057,Dennis,42,Surgery,70000,1,Hospital D
+1058,Kathleen,29,Headache,1800,0,Clinic A
+1059,Jason,60,Fracture,42000,1,Hospital C
+1060,Kimberly,35,Flu,2500,0,Clinic B
+1061,Jeffrey,51,Surgery,93000,1,Hospital D
+1062,Monica,28,Cold,1400,0,Clinic A
+1063,Craig,47,Chest Pain,15200,1,Hospital B
+1064,Olivia,32,Migraine,2500,0,Clinic D
+1065,Henry,63,Cancer,148000,1,Hospital C
+1066,Allison,26,Flu,2200,0,Clinic B
+1067,Frank,55,Heart Disease,97000,1,Hospital D
+1068,Katherine,30,Allergy,2800,0,Clinic A
+1069,Roger,58,Surgery,82000,1,Hospital C
+1070,Carol,40,Back Pain,7200,0,Hospital B
+1071,Jerry,45,Fracture,36000,1,Hospital D
+1072,Amanda,34,Flu,2300,0,Clinic D
+1073,Russell,50,Cancer,143000,1,Hospital A
+1074,Heather,27,Cold,1200,0,Clinic B
+1075,Douglas,61,Heart Disease,98000,1,Hospital C
+1076,Diana,36,Headache,2100,0,Clinic C
+1077,Peter,54,Surgery,90000,1,Hospital B
+1078,Laura,41,Back Pain,7800,0,Hospital D
+1079,Victor,60,Cancer,139000,1,Hospital C
+1080,Megan,29,Migraine,2600,0,Clinic A
+1081,Sean,46,Chest Pain,15700,1,Hospital D
+1082,Erin,35,Allergy,3100,0,Clinic B
+1083,Curtis,52,Heart Disease,101000,1,Hospital C
+1084,Sabrina,33,Flu,2300,0,Clinic D
+1085,Adam,57,Surgery,76000,1,Hospital A
+1086,Jacqueline,38,Headache,1900,0,Clinic C
+1087,Randy,44,Back Pain,7100,0,Hospital D
+1088,Whitney,26,Cold,1300,0,Clinic A
+1089,Marcus,62,Cancer,150000,1,Hospital B
+1090,Vanessa,31,Migraine,2500,0,Clinic D
+1091,Harold,49,Chest Pain,15500,1,Hospital C
+1092,Shelly,40,Allergy,2900,0,Clinic B
+1093,Bruce,53,Heart Disease,94000,1,Hospital D
+1094,Nina,28,Flu,2200,0,Clinic C
+1095,Louis,59,Surgery,88000,1,Hospital A
+1096,Paula,34,Back Pain,7800,0,Hospital D
+1097,Walter,55,Cancer,132000,1,Hospital B
+1098,Grace,27,Cold,1200,0,Clinic A
+1099,Derrick,48,Chest Pain,16200,1,Hospital C
+1100,Kylie,32,Headache,2100,0,Clinic D
+1101,Martin,56,Heart Disease,99000,1,Hospital D
+1102,Naomi,29,Migraine,2400,0,Clinic B
+1103,Craig,50,Surgery,87000,1,Hospital A
+1104,Julia,33,Allergy,2800,0,Clinic C
+1105,Albert,60,Cancer,140000,1,Hospital C
+1106,Lindsey,35,Flu,2200,0,Clinic B
+1107,Leonard,45,Fracture,35000,1,Hospital D
+1108,Carrie,31,Back Pain,7600,0,Hospital A
+1109,Raymond,58,Heart Disease,96000,1,Hospital C
+1110,Teresa,37,Migraine,2600,0,Clinic D
+1111,Joseph,47,Surgery,86000,1,Hospital D
+1112,Hailey,28,Flu,2200,0,Clinic B
+1113,Arthur,53,Heart Disease,102000,1,Hospital A
+1114,Brittany,35,Migraine,2500,0,Clinic D
+1115,Clifford,60,Cancer,146000,1,Hospital C
+1116,Evelyn,26,Cold,1200,0,Clinic A
+1117,Johnny,48,Chest Pain,15000,1,Hospital D
+1118,Kendra,33,Allergy,2800,0,Clinic C
+1119,Jonathan,56,Surgery,91000,1,Hospital B
+1120,Holly,39,Headache,2100,0,Clinic D
+1121,Calvin,42,Back Pain,7700,0,Hospital A
+1122,Sophia,31,Flu,2300,0,Clinic B
+1123,Willie,63,Cancer,154000,1,Hospital D
+1124,Shannon,29,Migraine,2700,0,Clinic C
+1125,Craig,58,Heart Disease,95000,1,Hospital C
+1126,Jillian,37,Allergy,3000,0,Clinic D
+1127,Maurice,46,Surgery,76000,1,Hospital B
+1128,Alyssa,27,Cold,1300,0,Clinic A
+1129,Stanley,62,Cancer,142000,1,Hospital D
+1130,Jade,34,Headache,1900,0,Clinic C
+1131,Tony,49,Chest Pain,15900,1,Hospital A
+1132,Melanie,28,Flu,2400,0,Clinic B
+1133,Leon,55,Heart Disease,100000,1,Hospital C
+1134,Chelsea,30,Migraine,2300,0,Clinic D
+1135,Albert,60,Surgery,88000,1,Hospital D
+1136,Lauren,41,Back Pain,7400,0,Hospital B
+1137,Howard,57,Cancer,139000,1,Hospital C
+1138,Ariana,33,Flu,2100,0,Clinic A
+1139,Mitchell,50,Surgery,90000,1,Hospital D
+1140,Clara,27,Headache,2000,0,Clinic C
+1141,Harry,52,Chest Pain,15500,1,Hospital A
+1142,Elaine,36,Allergy,2900,0,Clinic D
+1143,Ralph,59,Heart Disease,97000,1,Hospital B
+1144,Danielle,32,Back Pain,7800,0,Hospital C
+1145,Neil,48,Surgery,84000,1,Hospital D
+1146,Brooke,25,Cold,1200,0,Clinic A
+1147,Caleb,64,Cancer,158000,1,Hospital C
+1148,Joyce,35,Migraine,2600,0,Clinic D
+1149,Chad,54,Heart Disease,94000,1,Hospital B
+1150,Amanda,30,Flu,2100,0,Clinic B
+1151,Trevor,56,Surgery,87000,1,Hospital D
+1152,Jenny,29,Allergy,3000,0,Clinic A
+1153,Wayne,62,Cancer,145000,1,Hospital C
+1154,Nicole,38,Back Pain,7800,0,Hospital A
+1155,Glenn,46,Heart Disease,99000,1,Hospital D
+1156,Ellie,31,Headache,2000,0,Clinic C
+1157,Joel,60,Surgery,89000,1,Hospital B
+1158,Sierra,27,Flu,2300,0,Clinic D
+1159,Casey,51,Chest Pain,15700,1,Hospital A
+1160,Becky,33,Migraine,2500,0,Clinic B
+1161,Victoria,44,Heart Disease,98000,1,Hospital C
+1162,Gordon,58,Cancer,150000,1,Hospital D
+1163,Jasmine,26,Cold,1200,0,Clinic A
+1164,Luke,47,Surgery,78000,1,Hospital B
+1165,Molly,34,Flu,2200,0,Clinic D
+1166,Ethan,55,Heart Disease,102000,1,Hospital C
+1167,Isabel,29,Headache,1800,0,Clinic B
+1168,Ronald,61,Cancer,142000,1,Hospital A
+1169,Sabrina,32,Back Pain,7600,0,Hospital D
+1170,Jared,49,Surgery,83000,1,Hospital C
+1171,Ashley,27,Allergy,2900,0,Clinic C
+1172,Craig,52,Heart Disease,95000,1,Hospital D
+1173,Hannah,36,Migraine,2500,0,Clinic A
+1174,Donald,63,Cancer,155000,1,Hospital B
+1175,Naomi,33,Flu,2300,0,Clinic D
+1176,Kurt,57,Surgery,91000,1,Hospital C
+1177,Ruby,40,Back Pain,7800,0,Hospital A
+1178,Roger,54,Chest Pain,14800,1,Hospital D
+1179,Jocelyn,28,Cold,1300,0,Clinic B
+1180,Tyler,59,Heart Disease,97000,1,Hospital C
+1181,Carmen,30,Headache,2000,0,Clinic C
+1182,Alex,46,Surgery,85000,1,Hospital D
+1183,Leah,25,Flu,2200,0,Clinic A
+1184,Franklin,60,Cancer,140000,1,Hospital C
+1185,Julia,31,Migraine,2400,0,Clinic D
+1186,Ted,50,Chest Pain,16000,1,Hospital B
+1187,Kaitlyn,27,Cold,1200,0,Clinic A
+1188,Martin,53,Heart Disease,100000,1,Hospital C
+1189,Arianna,38,Allergy,2800,0,Clinic D
+1190,Richard,55,Surgery,90000,1,Hospital D
+1191,Kelsey,34,Flu,2100,0,Clinic C
+1192,Brett,58,Cancer,152000,1,Hospital B
+1193,Lydia,29,Headache,1900,0,Clinic A
+1194,Tony,49,Back Pain,7200,0,Hospital A
+1195,Eleanor,41,Migraine,2600,0,Clinic D
+1196,Nathan,57,Heart Disease,95000,1,Hospital C
+1197,Tanya,30,Flu,2400,0,Clinic B
+1198,Brent,59,Surgery,91000,1,Hospital D
+1199,Marissa,33,Allergy,3000,0,Clinic A
+1200,Gabriel,62,Cancer,145000,1,Hospital C
+1201,Renee,35,Headache,1900,0,Clinic D
+1202,Shane,47,Chest Pain,15300,1,Hospital A
+1203,Bianca,28,Flu,2200,0,Clinic B
+1204,Roy,55,Heart Disease,99000,1,Hospital D
+1205,Lauren,32,Migraine,2500,0,Clinic C
+1206,Daryl,61,Cancer,140000,1,Hospital B
+1207,Fiona,30,Back Pain,7400,0,Hospital A
+1208,Cory,50,Surgery,86000,1,Hospital C
+1209,Claudia,27,Allergy,2900,0,Clinic D
+1210,Marcus,64,Heart Disease,101000,1,Hospital D
